@@ -9,13 +9,8 @@ package tarea_final_poo;
  *
  * @author Cambar
  */
-public class Alumno extends Persona {
+public class Alumno implements Persona {
     private int nRegistro;
-
-    public Alumno(int id, int nRegistro) {
-        super(id);
-        this.nRegistro = nRegistro;
-    }
 
     public int getnRegistro() {
         return nRegistro;
@@ -24,6 +19,15 @@ public class Alumno extends Persona {
     public void setnRegistro(int nRegistro) {
         this.nRegistro = nRegistro;
     }
-    
+
+    @Override
+    public String Name() {
+        return null;
+    }
+
+    @Override
+    public int id() {
+       return 0; 
+    }
     
 }

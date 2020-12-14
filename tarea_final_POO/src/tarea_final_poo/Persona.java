@@ -9,20 +9,8 @@ package tarea_final_poo;
  *
  * @author Cambar
  */
-public abstract class Persona {
-    private int id;
-    
-    public Persona(int id){
-        this.id = id;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-    
+public interface Persona {
+   public String Name();
+   public int id();
     
 }
