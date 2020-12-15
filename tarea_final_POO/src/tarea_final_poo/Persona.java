@@ -10,7 +10,8 @@ package tarea_final_poo;
  * @author Cambar
  */
 public interface Persona {
-   public String Name();
-   public int id();
-    
+   public String Name(String name);
+   public int id(int id);
+   public int edad(int edad);
+   
 }

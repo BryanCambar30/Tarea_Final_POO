@@ -11,6 +11,23 @@ package tarea_final_poo;
  */
 public interface Profesor extends Persona{
     
-    public int nEmpleado();
-    public float Sueldo();
+    public int Sueldo(int Sueldo);
+    public int nEmpleado(int nEmpleado);
+    
+
+    @Override
+    public default String Name(String Name) {
+        return Name;
+    }
+
+    @Override
+    public default int edad(int edad) {
+        return edad;
+    }
+
+    @Override
+    public default int id(int id) {
+        return id;
+    }
+    
 }

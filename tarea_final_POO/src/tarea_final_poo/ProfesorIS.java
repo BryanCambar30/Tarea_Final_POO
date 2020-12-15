@@ -11,29 +11,58 @@ package tarea_final_poo;
  */
 public class ProfesorIS implements Profesor, IngSistemas{
 
+    private String Area;
+    private int nEmpleado;
+    private int Sueldo;
+    
+    //Profesor
     @Override
-    public int nEmpleado() {
+    public String Name(String Name) {
+        return Profesor.super.Name(Name);
+    }
+
+    @Override
+    public int id(int id) {
+        return Profesor.super.id(id); //To change body of generated methods, choose Tools | Templates.
+    }
+    
+    @Override
+    public int Sueldo(int Sueldo) {
+        this.Sueldo = Sueldo;
+        return this.Sueldo;
+    }
+
+    @Override
+    public int nEmpleado(int nEmpleado) {
+        this.nEmpleado = nEmpleado;
+        return this.nEmpleado;
+    }
+
+    @Override
+    public int edad(int edad) {
+        return Profesor.super.edad(edad); //To change body of generated methods, choose Tools | Templates.
+    }
+    
+    //Ingeniero en sistemas
+    @Override
+    public int nColegiad() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public float Sueldo() {
+    public int añoColegiado() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-    @Override
-    public String Name() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    
+    
+     // Getters y Setters
+    public String getArea() {
+        return Area;
     }
 
-    @Override
-    public int id() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    public void setArea(String Area) {
+        this.Area = Area;
     }
-
-    @Override
-    public int nColeagiado() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
+    
 }
