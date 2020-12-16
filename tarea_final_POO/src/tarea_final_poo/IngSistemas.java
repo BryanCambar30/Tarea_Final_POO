@@ -16,18 +16,18 @@ public interface IngSistemas extends Persona{
     
     
     @Override
-    public default String Name(String Name){
-        return Name;
+    public default String Name(){
+        return this.Name();
     }
     
     @Override
-    public default int edad(int edad) {
-        return edad;
+    public default int edad() {
+        return this.edad();
     }
 
     @Override
-    public default int id(int id) {
-        return id;
+    public default int id() {
+        return this.id();
     }
 
 }

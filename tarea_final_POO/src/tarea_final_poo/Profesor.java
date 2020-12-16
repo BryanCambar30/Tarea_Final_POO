@@ -10,24 +10,22 @@ package tarea_final_poo;
  * @author Cambar
  */
 public interface Profesor extends Persona{
-    
-    public int Sueldo(int Sueldo);
-    public int nEmpleado(int nEmpleado);
-    
-
+    public int Sueldo();
+    public int nEmpleado();
+            
     @Override
-    public default String Name(String Name) {
-        return Name;
+    public default String Name() {
+        return this.Name();
     }
 
     @Override
-    public default int edad(int edad) {
-        return edad;
+    public default int edad() {
+        return this.edad();
     }
 
     @Override
-    public default int id(int id) {
-        return id;
+    public default int id() {
+        return this.id();
     }
     
 }

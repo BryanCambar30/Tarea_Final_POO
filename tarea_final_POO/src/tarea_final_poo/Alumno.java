@@ -16,21 +16,18 @@ public class Alumno implements Persona {
     private int edad;
 
     @Override
-    public String Name(String Name) {
-        this.Name = Name;
-        return this.Name;
+    public String Name() {
+        return this.getName();
     }
 
     @Override
-    public int id(int id) {
-        this.id = id;
-       return this.id; 
+    public int id() {
+       return this.getId(); 
     }
 
     @Override
-    public int edad(int edad) {
-        this.edad = edad;
-        return this.edad;
+    public int edad() {
+        return this.getEdad();
     }
 
     //Getters y Setters
@@ -40,6 +37,48 @@ public class Alumno implements Persona {
 
     public void setnRegistro(int nRegistro) {
         this.nRegistro = nRegistro;
+    }
+
+    /**
+     * @return the Name
+     */
+    public String getName() {
+        return Name;
+    }
+
+    /**
+     * @param Name the Name to set
+     */
+    public void setName(String Name) {
+        this.Name = Name;
+    }
+
+    /**
+     * @return the id
+     */
+    public int getId() {
+        return id;
+    }
+
+    /**
+     * @param id the id to set
+     */
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    /**
+     * @return the edad
+     */
+    public int getEdad() {
+        return edad;
+    }
+
+    /**
+     * @param edad the edad to set
+     */
+    public void setEdad(int edad) {
+        this.edad = edad;
     }
     
 }
