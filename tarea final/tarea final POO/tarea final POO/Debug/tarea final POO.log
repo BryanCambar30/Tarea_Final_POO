@@ -1,0 +1,129 @@
+﻿  Alumno.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(4): error C2504: 'Persona': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(5): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Clase.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(4): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(4): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(5): error C2146: syntax error: missing ':' before identifier 'String'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(6): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\clase.h(6): error C2238: unexpected token(s) preceding ';'
+  INGSistemas.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(2): error C2504: 'Persona': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(3): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(3): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(4): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(4): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\ingsistemas.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Main.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'Clase': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'ProfesorIS': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'Alumno': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2143: syntax error: missing ',' before ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(6): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(6): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(4): error C2236: unexpected token 'class'. Did you forget a ';'?
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(4): error C2059: syntax error: ':'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(9): error C2065: 'SeccionID': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(13): error C2065: 'SeccionID': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(5): error C2059: syntax error: 'private'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(9): error C2059: syntax error: '}'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\alumno.h(9): error C2143: syntax error: missing ';' before '}'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(20): error C2065: 'Alumno': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(20): error C2146: syntax error: missing ';' before identifier 'alumno'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(20): error C2065: 'alumno': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(20): error C2061: syntax error: identifier 'Alumno'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(22): error C2065: 'Nalumno': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(24): error C2065: 'registro': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(26): error C2440: 'initializing': cannot convert from 'Seccion *' to 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(26): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(27): error C2039: 'secciones': is not a member of 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): note: see declaration of 'Seccion'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(29): error C2039: 'secciones': is not a member of 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): note: see declaration of 'Seccion'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(31): error C2065: 'clase': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(34): error C2065: 'Alumno': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(34): error C2146: syntax error: missing ';' before identifier 'alumno'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(34): error C2065: 'alumno': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(34): error C2061: syntax error: identifier 'Alumno'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(36): error C2143: syntax error: missing ';' before ':'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(36): error C2059: syntax error: ':'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(38): error C2065: 'clase': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(41): error C2059: syntax error: '}'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(45): error C2065: 'opcion2': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(46): error C2065: 'opcion2': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(48): error C2440: 'initializing': cannot convert from 'Seccion *' to 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(48): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(49): error C2065: 'String': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(49): error C2146: syntax error: missing ';' before identifier 'Clase'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(49): error C2065: 'Clase': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(50): error C2039: 'Nombre': is not a member of 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): note: see declaration of 'Seccion'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(50): error C2065: 'Clase': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(51): error C2039: 'SeccionID': is not a member of 'Seccion'
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): note: see declaration of 'Seccion'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(51): error C2065: 'Clase': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(54): error C2059: syntax error: '}'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(57): error C2059: syntax error: '}'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(33): error C2360: initialization of 'secciones' is skipped by 'case' label
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(26): note: see declaration of 'secciones'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(40): error C2361: initialization of 'secciones' is skipped by 'default' label
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\main.h(26): note: see declaration of 'secciones'
+  Persona.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\persona.h(4): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\persona.h(4): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\persona.h(5): error C2146: syntax error: missing ':' before identifier 'String'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\persona.h(5): error C2238: unexpected token(s) preceding ';'
+  Profesor.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(2): error C2504: 'Persona': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(3): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(3): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(4): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(4): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesor.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  profesorIS.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(5): error C2504: 'Profesor': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(5): error C2504: 'INGSistemas': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(6): error C3646: 'string': unknown override specifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(6): error C3646: 'Area': unknown override specifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(22): error C2061: syntax error: identifier 'String'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(15): error C2065: 'Area': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(19): error C2065: 'Area': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(23): error C2065: 'Nombre': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(23): error C2065: 'nombre': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(27): error C2065: 'Nombre': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(31): error C2065: 'Edad': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(35): error C2065: 'Edad': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(39): error C2065: 'ID': undeclared identifier
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\profesoris.h(43): error C2065: 'ID': undeclared identifier
+  Registro.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\registro.cpp(5): error C2011: 'Registro': 'class' type redefinition
+  c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\registro.h(2): note: see declaration of 'Registro'
+  Seccion.cpp
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'Clase': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'ProfesorIS': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2504: 'Alumno': base class undefined
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(5): error C2143: syntax error: missing ',' before ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(6): error C2062: type 'int' unexpected
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.h(6): error C2238: unexpected token(s) preceding ';'
+c:\users\cambar\desktop\poo\tarea final\tarea final poo\tarea final poo\seccion.cpp(3): fatal error C1004: unexpected end-of-file found
+  Generating Code...
